@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{35603E89-8008-4014-BD10-777368FC4D2F}">
+	<children>
+		<child name="osb_new_demo" key="{41354A9D-E560-4718-B257-0EED08EC0596}" path="osb_new_demo\osb_new_demo.mds" />
+	</children>
+	<testItems key="{AA374F02-6797-4324-A16F-A171AD219C0D}">
+		<children>
+			<testItem key="{41354A9D-E560-4718-B257-0EED08EC0596}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{BD2DC721-E064-425F-918F-42E2AFA8DB1B}" />
+	<analysis key="{048BA750-EF1E-4B2E-B537-79374BAF4BFC}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

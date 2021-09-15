@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{F29E6FDA-C27C-4C81-BBF3-CA28837FE918}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{39D37F1B-D86C-4739-A7DB-EF1E2FCDA2E0}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{41D3084A-3115-43D0-AA31-F96D466F18F5}">
+								<Image FileName="820370830" Left="-8" Top="-8" Right="1374" Bottom="736" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageStore" Key="{2C79F53A-9F6A-4A8E-AA4C-84D54225FC50}">
+								<Image FileName="820370830" Left="0" Top="71" Right="1366" Bottom="728" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.demoblaze.com/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkItemc" Key="{6041EEE2-EB32-432E-854F-2253C4B859F3}">
+										<Image FileName="820370830" Left="120" Top="564" Right="375" Bottom="620" />
+										<TypeInfo Item0="{76C442E6-B001-4528-8168-2C9D8177A9F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#itemc" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[.=&apos;Phones&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/div/a[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkItemc2" Key="{395F4CA2-A632-4330-B994-C524A909D949}">
+										<Image FileName="-623805570" Left="120" Top="419" Right="375" Bottom="475" />
+										<TypeInfo Item0="{76C442E6-B001-4528-8168-2C9D8177A9F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Laptops&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[3]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkItemc3" Key="{B7CBA151-401C-495A-BC1A-B6AC49EFAA84}">
+										<Image FileName="2055994222" Left="120" Top="474" Right="375" Bottom="530" />
+										<TypeInfo Item0="{76C442E6-B001-4528-8168-2C9D8177A9F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Monitors&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[4]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageAsusmJpg" Key="{93F3FEEE-1B87-4634-8665-2253C9405F44}">
+										<Image FileName="1700376808" Left="690" Top="503" Right="943" Bottom="645" />
+										<TypeInfo Item0="{76C442E6-B001-4528-8168-2C9D8177A9F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[contains(@src, &apos;asusm.jpg&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/a/img[contains(@class, &apos;card-img-top&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;tbodyid&apos;]//div[2]/div/a/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkAddToCart" Key="{D91A2A8A-8DDA-4A6C-B30D-9A75789882DA}">
+										<Image FileName="-1023874685" Left="565" Top="465" Right="714" Bottom="516" />
+										<TypeInfo Item0="{76C442E6-B001-4528-8168-2C9D8177A9F9}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[.=&apos;Add to cart&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@class, &apos;btn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;tbodyid&apos;]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/div/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="Alert" Key="{6A74B038-7AD9-4A90-9661-3551A9EC7E95}">
+										<Image FileName="1080952890" Left="452" Top="62" Right="914" Bottom="206" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Alert" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonOk" Key="{755E069F-C454-46B1-8DB7-0F04D5D8A275}">
+												<Image FileName="1080952890" Left="827" Top="149" Right="891" Bottom="181" />
+												<TypeInfo Item0="{7F339C1E-C15A-4753-9705-6C5724A685B0}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Button" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="OK" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{39D37F1B-D86C-4739-A7DB-EF1E2FCDA2E0}">
+			<Child Name="BrowserWindow" Owner="{41D3084A-3115-43D0-AA31-F96D466F18F5}" />
+			<Child Name="pageStore" Owner="{2C79F53A-9F6A-4A8E-AA4C-84D54225FC50}">
+				<Child Name="linkItemc" Owner="{6041EEE2-EB32-432E-854F-2253C4B859F3}" />
+				<Child Name="linkItemc2" Owner="{395F4CA2-A632-4330-B994-C524A909D949}" />
+				<Child Name="linkItemc3" Owner="{B7CBA151-401C-495A-BC1A-B6AC49EFAA84}" />
+				<Child Name="imageAsusmJpg" Owner="{93F3FEEE-1B87-4634-8665-2253C9405F44}" />
+				<Child Name="linkAddToCart" Owner="{D91A2A8A-8DDA-4A6C-B30D-9A75789882DA}" />
+				<Child Name="Alert" Owner="{6A74B038-7AD9-4A90-9661-3551A9EC7E95}">
+					<Child Name="buttonOk" Owner="{755E069F-C454-46B1-8DB7-0F04D5D8A275}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
